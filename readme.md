@@ -14,7 +14,7 @@ You can run the code by clicking the `Run` button on the top right corner of the
 
 The output will be shown in the `Terminal` tab at the bottom of the editor.
 
-## if/elif/else Examples
+## Return values Examples
 
 ### Sample
 
